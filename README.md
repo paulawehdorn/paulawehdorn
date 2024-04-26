@@ -20,15 +20,16 @@ A longo prazo, desejo me tornar Tech Lead, liderando equipes na resolução de d
 ## 📫 Vamos nos conectar?
 Você pode me encontrar nos links abaixo. Sinta-se a vontade para entrar em contato.
 <br><br>
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/paulawehdorn/)
+[![LinkedIn](https://img.icons8.com/stickers/48/000000/linkedin.png)](https://www.linkedin.com/in/paulawehdorn/)
 &nbsp;
-[![Medium](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@paulawehdorn)
+[![Github](https://img.icons8.com/stickers/48/000000/github.png)](https://github.com/paulawehdorn?tab=repositories)
 &nbsp;
-[![Github](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/paulawehdorn?tab=repositories)
+[![Discord](https://img.icons8.com/stickers/48/ffffff/discord.png)](https://discord.gg/MFUWj2Y3)
 &nbsp;
-[![Discord](https://img.icons8.com/color/48/ffffff/discord.png)](https://discord.gg/MFUWj2Y3)
+[![Whatsapp](https://img.icons8.com/stickers/48/40C351/whatsapp.png)](https://api.whatsapp.com/send?phone=5531999152975)
 &nbsp;
-[![Whatsapp](https://img.icons8.com/color/48/40C351/whatsapp.png)](https://api.whatsapp.com/send?phone=5531999152975)
+[![Portfolio](https://img.icons8.com/stickers/48/ffffff/administrator-female.png)](https://paulawehdorn.github.io/portfolio_projetos/)
 &nbsp;
-[![Portfolio](https://img.icons8.com/ios-filled/48/ffffff/person-female.png)](https://paulawehdorn.github.io/portfolio_projetos/)
+[![Python_BH](https://img.icons8.com/stickers/48/ffffff/python.png)](https://www.meetup.com/pt-BR/belo-horizonte-python-user-group/)
 &nbsp;
+
