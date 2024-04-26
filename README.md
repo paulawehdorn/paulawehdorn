@@ -24,7 +24,7 @@ Você pode me encontrar nos links abaixo. Sinta-se a vontade para entrar em cont
 &nbsp;
 [![Github](https://img.icons8.com/stickers/60/000000/github.png)](https://github.com/paulawehdorn?tab=repositories)
 &nbsp;
-[![Discord](https://img.icons8.com/stickers/60/ffffff/discord.png)](https://discord.gg/MFUWj2Y3)
+[![Discord](https://img.icons8.com/stickers/60/ffffff/discord.png)](https://discord.gg/2ZQn7nv6)
 &nbsp;
 [![Whatsapp](https://img.icons8.com/stickers/60/40C351/whatsapp.png)](https://api.whatsapp.com/send?phone=5531999152975)
 &nbsp;
