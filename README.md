@@ -1,23 +1,34 @@
-## 👋 Hi there!
+## > Hello World! 👋
 
-<img align='right' src='https://cdn.pixabay.com/photo/2020/10/14/22/09/map-5655572_1280.png' width='250'>
+Meu nome é Paula, sou uma Cientista de Dados com sólida experiência em negócios, finanças e programação. Trabalho com desenvolvimento de modelos preditivos e análise de dados em busca de insights valiosos que impulsionem a tomada de decisões estratégicas. Me destaco com entregas centradas na percepção de valor do cliente.
 
-[![author](https://img.shields.io/badge/author-paula-blue.svg)](https://www.linkedin.com/in/paulawehdorn/) 
-[![data-science](https://img.shields.io/badge/data-science-blue.svg)](https://paulawehdorn.github.io/portfolio_projetos/) 
-[![medium](https://img.shields.io/badge/blog-medium-blue.svg)](https://medium.com/@paulawehdorn) 
+### 🔎 O que procuro:
+Estou em busca de novos desafios para atuar como Cientista de Dados ou Quant Finance em um ambiente que valorize trabalho em equipe, aprendizado contínuo e equilíbrio saudável entre vida pessoal e profissional, onde possa aplicar minhas habilidades na resolução de desafios de negócios.
 
-Eu sou a Paula, uma apaixonada por desvendar os segredos escondidos nos dados! 
+### 🎯 Meus objetivos:
+A longo prazo, desejo me tornar Tech Lead, liderando equipes na resolução de desafios e impulsionando a entrega de valor alinhada às expectativas do cliente. Acredito que, como líder, posso orientar a equipe a priorizar o porquê das soluções, garantindo que nossos esforços sempre estejam alinhados com as necessidades e percepções de valor do cliente.
 
-Como cientista de dados, me sinto em uma aventura constante onde cada conjunto de dados é como um mapa do tesouro, esperando para revelar seus preciosos achados. Cada descoberta é como encontrar um tesouro escondido, trazendo à tona a nostalgia e a curiosidade de uma criança explorando o mundo pela primeira vez.
+## 💡 Curiosidades sobre mim:
 
-Nessa jornada emocionante, cada insight é uma pequena vitória, despertando minha paixão e renovando minha energia para continuar descobrindo.
+- 🖥️ Programo desde 1996, aos 13 anos;
+- 📈 Invisto desde 2009 no mercado financeiro;
+- 💲 Já trabalhei como jogadora, dealer e diretora de poker; 
+- 🌎 Amo viajar e conhecer novas culturas;
+- 🥁 Toco bateria🤘;
+- 🧉 Sou viciada em mate (meu segredo para voltar com tudo depois do almoço).
 
 ## 📫 Vamos nos conectar?
-
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/paulawehdorn/) ou sinta-se a vontade para me mandar um e-mail em [pwehdorn@gmail.com](mailto:pwehdorn@gmail.com).
-
-## 💡 Mais sobre mim
-
-- 🖥️ Interessado em ver mais do meu trabalho? Confira meu portfólio [aqui](https://paulawehdorn.github.io/portfolio_projetos/).
-- 🔍 Explore meus projetos de ciência de dados no [GitHub](https://github.com/paulawehdorn?tab=repositories).
-- ⚡ Curiosidades: Sou apaixonada com mate argentino! É a minha arma secreta depois do almoço.
+Você pode me encontrar nos links abaixo. Sinta-se a vontade para entrar em contato.
+<br><br>
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/paulawehdorn/)
+&nbsp;
+[![Medium](https://img.icons8.com/color/48/000000/medium-monogram.png)](https://medium.com/@paulawehdorn)
+&nbsp;
+[![Github](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/paulawehdorn?tab=repositories)
+&nbsp;
+[![Discord](https://img.icons8.com/color/48/ffffff/discord.png)](https://discord.gg/MFUWj2Y3)
+&nbsp;
+[![Whatsapp](https://img.icons8.com/color/48/40C351/whatsapp.png)](https://api.whatsapp.com/send?phone=5531999152975)
+&nbsp;
+[![Portfolio](https://img.icons8.com/ios-filled/48/ffffff/person-female.png)](https://paulawehdorn.github.io/portfolio_projetos/)
+&nbsp;
