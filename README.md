@@ -11,12 +11,12 @@ Estou em busca de novos desafios para atuar como Cientista de Dados ou Quant Fin
 ## 💡 Curiosidades sobre mim:
 
 - 🖥️ Programo desde 1996, aos 13 anos;
-- 📈 Invisto desde 2009 no mercado financeiro;
 - 💍 Sou casada desde 2019; 🏳‍🌈
 - 🌎 Amo viajar e conhecer novas culturas;
-- 🧠 Trabalhei alguns anos com poker; 
+- 🧠 Trabalhei alguns anos com Poker e Mercado Financeiro;
+- 📈 Invisto desde 2009;
 - 🥁 Toco bateria🤘;
-- 🧉 Sou viciada em mate (meu segredo para voltar com tudo depois do almoço).
+- 🧉 AMO mate (meu segredo para voltar com tudo depois do almoço).
 
 ## 🚀 Portfolio de projetos:
 [Clique aqui](https://paulawehdorn.github.io/portfolio_projetos/) para ver meu portfolio de projetos de dados.
