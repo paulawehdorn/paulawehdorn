@@ -1,12 +1,12 @@
 ## > Hello World! 👋
 ### 🧩 Quem sou eu:
-Meu nome é Paula, sou uma Cientista de Dados com sólida experiência em negócios, finanças e programação. Trabalho com desenvolvimento de modelos preditivos e análise de dados em busca de insights valiosos que impulsionem a tomada de decisões estratégicas. Me destaco com entregas centradas na percepção de valor do cliente.
+Meu nome é Paula, sou uma cientista de dados com sólida experiência em análise, negócios e programação. Trabalho com análise estatística de dados e desenvolvimento de modelos de machine learning em busca de insights valiosos que facilitam a tomada de decisão. Minha atuação destaca-se na entrega centrada na percepção de valor do negócio. 
 
 ### 🎯 Meus objetivos:
-A longo prazo, desejo me tornar Tech Lead, liderando equipes na resolução de desafios e impulsionando a entrega de valor alinhada às expectativas do cliente. Acredito que, como líder, posso orientar a equipe a priorizar o porquê das soluções, garantindo que nossos esforços sempre estejam alinhados com as necessidades e percepções de valor do cliente.
+Sonho em me especializar em estatística e machine learning, me tornar referência como Cientista de Dados e proporcionar uma vida melhor para minha família.
 
 ### 🔎 O que procuro:
-Estou em busca de novos desafios para atuar como Cientista de Dados ou Quant Finance em um ambiente que valorize trabalho em equipe, aprendizado contínuo e equilíbrio saudável entre vida pessoal e profissional, onde eu possa aplicar minhas habilidades na resolução de desafios de negócios.
+Busco novos desafios como Cientista de Dados em empresas que utilizem dados com propósito, transformando-os em soluções que façam a diferença no negócio e na vida das pessoas.
 
 ## 💡 Curiosidades sobre mim:
 
