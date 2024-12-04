@@ -12,14 +12,12 @@ Busco novos desafios como Cientista de Dados em empresas que utilizem dados com 
 
 - 🖥️ Programo desde 1996, aos 13 anos;
 - 💍 Sou casada desde 2019; 🏳‍🌈
+- 🐺 Sou mãe de pet; (rsrsrs)
 - 🌎 Amo viajar e conhecer novas culturas;
-- 🧠 Trabalhei alguns anos com Poker e Mercado Financeiro;
 - 📈 Invisto desde 2009;
-- 🥁 Toco bateria🤘;
+- 🧠 Trabalhei alguns anos com Poker e Mercado Financeiro;
+- 🥁 Toco bateria; 🤘
 - 🧉 AMO mate (meu segredo para voltar com tudo depois do almoço).
-
-## 🚀 Portfolio de projetos:
-[Clique aqui](https://paulawehdorn.github.io/portfolio_projetos/) para ver meu portfolio de projetos de dados.
 
 ## 📫 Vamos nos conectar?
 Você pode me encontrar nos links abaixo. Sinta-se a vontade para entrar em contato.
@@ -29,6 +27,4 @@ Você pode me encontrar nos links abaixo. Sinta-se a vontade para entrar em cont
 [![Email](https://img.icons8.com/stickers/60/ffffff/mail.png)](mailto:pwehdorn@gmail.com)
 &nbsp;
 [![Whatsapp](https://img.icons8.com/stickers/60/40C351/whatsapp.png)](https://api.whatsapp.com/send?phone=5531999152975)
-&nbsp;
-[![Github](https://img.icons8.com/stickers/60/000000/github.png)](https://github.com/paulawehdorn?tab=repositories)
 &nbsp;
