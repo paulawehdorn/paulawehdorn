@@ -48,17 +48,17 @@ Você pode me encontrar nos links abaixo. Sinta-se a vontade para entrar em cont
 &nbsp;
 <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="Matplotlib Logo" width="50" height="50">
 &nbsp;
-[![Apache Spark](https://img.icons8.com/color/50/apache-spark.png)](https://spark.apache.org/)
+<img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="Apache Spark Logo" width="50" height="50">
+&nbsp;
+<img src="https://icon.icepanel.io/Technology/svg/R-.svg" alt="R Logo" width="50" height="50">
 &nbsp;
 [![Docker](https://img.icons8.com/color/50/docker.png)](https://www.docker.com/)
+&nbsp;
+<img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" alt="Anaconda Logo" width="50" height="50">
 &nbsp;
 [![VS Code](https://img.icons8.com/color/50/visual-studio--v2.png)](https://code.visualstudio.com/)
 &nbsp;
 [![AWS](https://img.icons8.com/nolan/50/amazon-web-services.png)](https://aws.amazon.com/)
-&nbsp;
-[![GCP](https://img.icons8.com/color/50/google-cloud.png)](https://cloud.google.com/)
-&nbsp;
-[![Azure](https://img.icons8.com/color/50/azure-1.png)](https://azure.microsoft.com/)
 &nbsp;
 [![Tableau](https://img.icons8.com/color/50/tableau-software.png)](https://www.tableau.com/)
 &nbsp;
